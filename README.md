@@ -12,6 +12,6 @@ This is the Unity project used to create the asset bundle to be loaded in the ga
 
 # Contribution
 
-To contribute, you can fork this repository, make changes and open a pull request. I'll be happy to check the pull request and merge it if it is good.
+To contribute, you should take a look at [CONTRIBUTING.md](CONTRIBUTING.md).
 
 You can also [donate to me](https://mldchan.dev/donate).

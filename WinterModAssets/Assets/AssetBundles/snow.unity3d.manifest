@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2862658680
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ec46ee6cd2dd1b37a3c2aa8ccb4ec36c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b93bd442b8167f85f0de1ddd2c5f516d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Snow.mat
+Dependencies: []
